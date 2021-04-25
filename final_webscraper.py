@@ -1,6 +1,5 @@
 import time
 from selenium import webdriver
-from bs4 import BeautifulSoup
 from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.common.keys import Keys
 import pandas as pd
